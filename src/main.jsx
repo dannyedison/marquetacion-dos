@@ -11,7 +11,7 @@ import Img from './Img'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <body class="body">
+    
       <header class='header'>
         <h2>Header</h2>
         <Enlace>
@@ -30,7 +30,7 @@ createRoot(document.getElementById('root')).render(
         <Section></Section>
 
       </div>
-    </body>
+    
 
   </StrictMode>,
 )
